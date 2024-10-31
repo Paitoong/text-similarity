@@ -34,5 +34,7 @@ Running the script:
 ```sh
 python text-similarity.py names.csv
 ```
+```
 John,Doe,Jon,Do,Y,85.00%
 Jane,Smith,Janet,Smyth,N,65.00%
+```
