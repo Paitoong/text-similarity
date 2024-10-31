@@ -24,9 +24,15 @@ No additional packages are required for this script as it uses libraries include
 
 2. Run the script with the path to your CSV file as an argument:
     ```sh
-    python [text-similarity.py] path/to/your/file.csv
+    python text-similarity.py path/to/your/file.csv
     ```
 
 ## Example
 
 Given a CSV file `names.csv` with the following content:
+Running the script:
+```sh
+python text-similarity.py names.csv
+```
+John,Doe,Jon,Do,Y,85.00%
+Jane,Smith,Janet,Smyth,N,65.00%
